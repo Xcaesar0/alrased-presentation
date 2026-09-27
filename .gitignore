@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Node / Python / Temp
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.local
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Local temporary script files
+scratch/
